@@ -1,4 +1,4 @@
-[![Header](https://github.com/chanakya22/chanakya22/blob/master/github_profile_pic.jpeg "Header")]
+![Header](https://github.com/chanakya22/chanakya22/blob/master/github_profile_pic.jpeg "Header")
 
 ### Hi there 👋
 
